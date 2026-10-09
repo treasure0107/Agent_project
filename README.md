@@ -1,8 +1,8 @@
-# Agent_project
+# 智能医疗助手
 
-智能医疗助手全栈项目（`frontend` + `service_frontend`）。
+全栈项目（`frontend` + `service_frontend`）。
 
-# 智能医疗助手 - 前端
+## 前端说明
 
 基于 Vue 3 + TypeScript + Element Plus 的医疗助手前端应用
 
