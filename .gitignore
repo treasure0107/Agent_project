@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# Node / frontend
+node_modules/
+dist/
+coverage/
+*.local
+.eslintcache
+
+# IDE / OS
+.idea/
+.vscode/
+*.suo
+.DS_Store
+Thumbs.db
+
+# Uploads & logs
+service_frontend/uploads/
+logs/
+*.log
+
+# Local tooling
+*.pyc
+.pytest_cache/
+.mypy_cache/
